@@ -37,7 +37,7 @@
 	const BLASTOISE          ; $1C
 	const PINSIR             ; $1D
 	const TANGELA            ; $1E
-	const_skip               ; $1F
+	const LECHONK            ; $1F
 	const_skip               ; $20
 	const GROWLITHE          ; $21
 	const ONIX               ; $22
@@ -203,7 +203,7 @@ DEF NUM_POKEMON_INDEXES EQU const_value - 1
 ; starters
 DEF STARTER1 EQU CHARMANDER
 DEF STARTER2 EQU SQUIRTLE
-DEF STARTER3 EQU BULBASAUR
+DEF STARTER3 EQU LECHONK
 
 ; ghost Marowak in Pokémon Tower
 DEF RESTLESS_SOUL EQU MAROWAK
