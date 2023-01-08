@@ -33,7 +33,7 @@ EvosMovesPointerTable:
 	dw BlastoiseEvosMoves
 	dw PinsirEvosMoves
 	dw TangelaEvosMoves
-	dw MissingNo1FEvosMoves
+	dw LechonkEvosMoves
 	dw MissingNo20EvosMoves
 	dw GrowlitheEvosMoves
 	dw OnixEvosMoves
@@ -544,6 +544,10 @@ MissingNo1FEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
+	db 17, DIG
+	db 21, HEADBUTT
+	db 27, TAKE_DOWN
+	db 35, DOUBLE_EDGE
 	db 0
 
 MissingNo20EvosMoves:
