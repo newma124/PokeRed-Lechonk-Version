@@ -297,6 +297,16 @@ _TangelaDexEntry::
 	next "weed. Its vines"
 	next "shake as it walks"
 	dex
+	
+_LechonkDexEntry::
+	text "It spurns all but"
+	next "the finest of"
+	next "foods. Its body"
+
+	page "gives off an herb-"
+	next "like scent that"
+	next "bugs detest"
+	dex
 
 _GrowlitheDexEntry::
 	text "Very protective"
