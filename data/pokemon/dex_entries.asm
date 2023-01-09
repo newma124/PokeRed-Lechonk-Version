@@ -408,7 +408,7 @@ TangelaDexEntry:
 	text_end
 
 LechonkDexEntry:
-	db "PIG@"
+	db "HOG@"
 	db 1,8
 	dw 220
 	text_far _LechonkDexEntry
