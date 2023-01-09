@@ -540,7 +540,7 @@ TangelaEvosMoves:
 	db 49, GROWTH
 	db 0
 
-MissingNo1FEvosMoves:
+LechonkEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
